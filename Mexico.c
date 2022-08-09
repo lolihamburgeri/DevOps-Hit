@@ -6,5 +6,6 @@ void main()
     y=7;
     printf(x*y);
     printf(x+y);
+    printf(x-y);
 }
 
