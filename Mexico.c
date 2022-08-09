@@ -1,7 +1,10 @@
 #include <stdio.h>    
-int main()
+void main()
 {
     printf("Hello Mexico");
-    return 0;
+    x=5;
+    y=7;
+    printf(x*y);
+    printf(x+y);
 }
 
